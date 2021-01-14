@@ -18,5 +18,14 @@
     <ClCompile Include="가나다라마바사.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="아자차카.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파타하.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="김수한무거북이와.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
